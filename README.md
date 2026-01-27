@@ -1,3 +1,19 @@
 ### Google Play Store Analysis
 
-The Google Play Store App Insights Dashboard consolidates multiple performance dimensions—including ratings, installs, reviews, update trends, app size, and genre—into a single interactive view that supports data-driven decision-making and strategic planning.The analysis reveals that high app ratings are not always directly correlated with high install counts, indicating that popularity and quality do not necessarily grow together. Apps with moderate to high install volumes tend to maintain more stable ratings, while extremely popular apps often experience greater rating variability due to scalability challenges and diverse user expectations. Additionally, genres such as Education, Productivity, and Books & Reference consistently achieve higher average ratings, reflecting stronger user satisfaction and perceived value in these categories.Update trend analysis shows a steady increase in app updates over time, reinforcing the importance of regular maintenance and feature enhancements to sustain user engagement and market relevance. Furthermore, the app size versus installs analysis demonstrates that lightweight and well-optimized apps attract more downloads, particularly in highly competitive markets where storage and performance constraints influence user decisions.By integrating global filters—such as Category, App Type, and Content Rating—along with a clean and structured dashboard layout, the solution enables stakeholders to dynamically explore insights across different market segments. This ensures the dashboard is not only analytical but also highly strategic and actionable.Overall, the Tableau dashboard provides a comprehensive, user-centric view of app success factors, enabling app developers, product managers, and business leaders to Benchmark high-performing applications,Optimize app size and update frequency,Focus on high-satisfaction genres,Balance growth,strategies with quality assurance.This project demonstrates how visual analytics in Tableau can transform raw app data into meaningful business insights, supporting smarter decision-making and sustainable app growth. 
+The Google Play Store App Insights Dashboard consolidates multiple performance dimensions—including ratings, installs, reviews, update trends, app size, and genre—into a single interactive view that supports data-driven decision-making and strategic planning
+What This Dashboard Does
+1.	Combines key app performance metrics—ratings, installs, reviews, updates, app size, and genre—into one interactive dashboard.
+2.	Helps users make data-driven decisions and plan smarter app strategies.
+3.	Designed to give a clear, visual understanding of what drives app success.
+
+Key Insights from the Analysis
+Ratings vs Installs
+•	High ratings don’t always mean high installs — popularity and quality don’t always grow together.
+•	Apps with moderate to high installs usually maintain more stable ratings.
+•	Extremely popular apps often show rating fluctuations due to:
+o	Large and diverse user bases
+o	Higher expectations
+o	Challenges in scaling quality
+
+
+<img width="740" height="457" alt="03_New" src="https://github.com/user-attachments/assets/70cff69c-3f72-405e-a376-782ee0716a78" />
