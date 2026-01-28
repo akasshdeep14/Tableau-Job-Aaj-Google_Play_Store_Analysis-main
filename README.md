@@ -21,4 +21,5 @@ Implementation Value -
 Interactive visuals in Tableau streamline raw data into actionable views, mirroring proven app store analyses that emphasize maintenance and niche focus for long-term success.
 
 
-<img width="740" height="457" alt="03_New" src="https://github.com/user-attachments/assets/70cff69c-3f72-405e-a376-782ee0716a78" />
+<img width="1160" height="556" alt="Tableau_Project (1)" src="https://github.com/user-attachments/assets/f3f1d833-3e60-4a91-98f7-1f5cc68d167a" />
+
